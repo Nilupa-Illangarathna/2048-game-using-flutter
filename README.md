@@ -16,6 +16,9 @@ A simple implementation of the classic 2048 game in Flutter.
 
 This Flutter application is a recreation of the popular 2048 game. It uses Flutter's rich set of widgets to create a smooth and enjoyable gaming experience. The game follows the standard rules of 2048, where the player swipes in different directions to merge tiles with the same number, ultimately aiming to reach the elusive 2048 tile.
 
+ ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+
 ## Features
 
 - Clean and intuitive UI
