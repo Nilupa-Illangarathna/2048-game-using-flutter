@@ -1,16 +1,40 @@
-# game2048
+# 2048 Flutter Game
 
-A new Flutter project.
+A simple implementation of the classic 2048 game in Flutter.
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Getting Started](#getting-started)
+- [How to Play](#how-to-play)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Overview
+
+This Flutter application is a recreation of the popular 2048 game. It uses Flutter's rich set of widgets to create a smooth and enjoyable gaming experience. The game follows the standard rules of 2048, where the player swipes in different directions to merge tiles with the same number, ultimately aiming to reach the elusive 2048 tile.
+
+## Features
+
+- Clean and intuitive UI
+- Smooth animations and transitions
+- Responsive swipe gestures for gameplay
+- Undo and restart functionalities
+- Beautiful color scheme and tile design
+
+## Screenshots
+
+![Gameplay](screenshots/gameplay.png)
+
+*Add more screenshots as needed*
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run the 2048 game on your local machine, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone this repository:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   ```bash
+   git clone https://github.com/your-username/2048-flutter.git
