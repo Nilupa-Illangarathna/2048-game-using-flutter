@@ -38,3 +38,26 @@ To run the 2048 game on your local machine, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/2048-flutter.git
+   ````
+
+Navigate to the project directory:
+
+   ```bash
+   cd 2048-flutter
+   ````
+Install dependencies:
+
+   ```bash
+   flutter pub get
+   ````
+
+   ```bash
+   flutter run
+   ````
+
+## How to Play
+Swipe up, down, left, or right to merge tiles.
+Merged tiles create a new tile with the sum of their values.
+The goal is to reach the 2048 tile by strategically merging tiles.
+Use the "Undo" button to revert to the previous state.
+Press "Restart" to start a new game.
